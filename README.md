@@ -8,8 +8,8 @@ The main objective of this project is to simplify Swiggy’s operational data, m
 # Key Features
 # 1 Summary Metrics
 
-Number of Orders: Displays the total number of orders received.
-Total Revenue: Provides the total revenue generated from orders.
+Number of Orders: Displays the total number of orders received.<br>
+Total Revenue: Provides the total revenue generated from orders.<br>
 Average Delivery Time: Highlights the average time taken for order delivery.
 # 2 Revenue Trends
 
